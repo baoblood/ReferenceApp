@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#171719">
+  <title>Random Word Generator — Drawing Prompts</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="word-library-data.js" defer></script>
+  <script src="generator.js" defer></script>
+</head>
+<body>
+  <main class="app">
+    <header class="topbar">
+      <a class="brand" href="#" aria-label="Random Word Generator home">
+        <span class="brand-mark" aria-hidden="true">✳</span>
+        <span>STUDIO TOOLS</span>
+      </a>
+      <span class="offline-label"><span class="status-dot"></span> OFFLINE &amp; READY</span>
+    </header>
+
+    <section class="generator" aria-labelledby="page-title">
+      <div class="intro">
+        <p class="eyebrow"><span>01</span> &nbsp; CREATIVE EXERCISE</p>
+        <h1 id="page-title">RANDOM WORD<br><span>GENERATOR</span></h1>
+        <p class="description">Three unexpected words. One idea only you can draw.</p>
+      </div>
+
+      <div class="controls">
+        <label for="word-count">YOUR PROMPT <span>·</span> WORDS</label>
+        <div class="select-wrap">
+          <select id="word-count" aria-label="Number of words in your prompt">
+            <option value="3">03 WORDS</option>
+            <option value="4">04 WORDS</option>
+            <option value="5">05 WORDS</option>
+          </select>
+          <span class="select-chevron" aria-hidden="true">⌄</span>
+        </div>
+      </div>
+
+      <div id="word-list" class="word-list" aria-live="polite" aria-atomic="false"></div>
+
+      <div class="actions">
+        <button id="generate" class="button button-primary" type="button">
+          <span class="shuffle-icon" aria-hidden="true">⤨</span>
+          GENERATE PROMPT
+          <span class="button-shortcut" aria-hidden="true">↵</span>
+        </button>
+        <button id="copy" class="button button-secondary" type="button">
+          <span class="copy-icon" aria-hidden="true">▢</span>
+          COPY
+        </button>
+      </div>
+      <p id="message" class="message" role="status" aria-live="polite"></p>
+    </section>
+
+    <footer class="footer">
+      <span>MAKE SOMETHING UNEXPECTED.</span>
+      <span>NO RULES. JUST DRAW.</span>
+    </footer>
+  </main>
+</body>
+</html>
