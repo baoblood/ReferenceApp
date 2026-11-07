@@ -4,29 +4,170 @@
     "Pirate", "Mermaid", "Ghost", "Alien", "Vampire", "Cowboy", "Assassin",
     "Explorer", "Monster", "Scientist", "Bard", "Golem", "Ranger", "Phoenix",
     "Detective", "Giant", "Cyborg", "Ninja", "Oracle", "Inventor", "Beast",
-    "Time Traveler", "Jester", "Pilot"
+    "Time Traveler", "Jester", "Pilot",
+    "Necromancer", "Paladin", "Barbarian", "Gladiator",
+  "Monk", "Assassin", "Mercenary", "Warlord",
+  "Emperor", "King", "Queen", "Princess",
+  "Prince", "Duchess", "Noble", "Peasant",
+  "Executioner", "Bounty Hunter", "Bodyguard", "Sentinel",
+  "Guardian", "Templar", "Crusader", "Berserker",
+  "Shaman", "Druid", "Sorcerer", "Wizard",
+  "Mage", "Alchemist", "Enchanter", "Summoner",
+  "Illusionist", "Fortune Teller", "Prophet", "Priest",
+  "Priestess", "Cultist", "Monarch", "Deity",
+  "Titan", "Gorgon", "Minotaur", "Centaur",
+  "Cyclops", "Werewolf", "Werebear", "Goblin",
+  "Orc", "Troll", "Ogre", "Fairy",
+  "Elf", "Dark Elf", "Dwarf", "Halfling",
+  "Fairy Queen", "Dryad", "Nymph", "Satyr",
+  "Siren", "Selkie", "Harpy", "Banshee",
+  "Griffin", "Hydra", "Basilisk", "Cerberus",
+  "Chimera", "Kraken", "Leviathan", "Sphinx",
+  "Manticore", "Unicorn", "Pegasus", "Kitsune",
+  "Tanuki", "Kappa", "Tengu", "Oni",
+  "Reaper", "Lich", "Skeleton", "Zombie",
+  "Mummy", "Wraith", "Specter", "Poltergeist",
+  "Slime", "Shapeshifter", "Doppelganger", "Parasite",
+  "Android", "Mech Pilot", "AI", "Hologram",
+  "Engineer", "Mechanic", "Architect", "Blacksmith",
+  "Craftsman", "Inventor", "Programmer", "Hacker",
+  "Astronaut", "Cosmonaut", "Space Marine", "Starship Captain",
+  "Bounty Collector", "Archaeologist", "Cartographer", "Treasure Hunter",
+  "Arctic Explorer", "Deep Sea Diver", "Sailor", "Captain",
+  "Navigator", "Airship Captain", "Sky Pirate", "Rogue",
+  "Thief", "Spy", "Informant", "Smuggler",
+  "Outlaw", "Bandit", "Rebel", "Revolutionary",
+  "General", "Commander", "Admiral", "Veteran",
+  "Medic", "Surgeon", "Doctor", "Plague Doctor",
+  "Professor", "Scholar", "Librarian", "Historian",
+  "Musician", "Composer", "Conductor", "Dancer",
+  "Acrobat", "Circus Performer", "Magician", "Puppeteer",
+  "Actor", "Painter", "Sculptor", "Poet",
+  "Blackguard", "Herald", "Messenger", "Diplomat",
+  "Judge", "Executioner", "Shepherd", "Hunter",
+  "Farmer", "Merchant", "Innkeeper", "Nomad",
+  "Tribal Chief", "Wanderer", "Hermit", "Pilgrim",
+  "Monk Warrior", "Swordmaster", "Duelist", "Fencer",
+  "Archer", "Sniper", "Gunslinger", "Marksman",
+  "Lancer", "Spearman", "Shieldmaiden", "Valkyrie",
+  "Amazon", "Spartan", "Ronin", "Shogun",
+  "Geisha", "Onmyoji", "Samurai Lord", "Ninja Master",
+  "Time Keeper", "Dream Walker", "Dimension Traveler",
+  "Soul Collector", "Star Guardian", "Void Walker",
+  "Celestial Being", "Fallen Angel", "Dark Messiah",
+  "Chosen One", "Prophecy Child", "Cursed One",
+  "Immortal", "Clone", "Mutant", "Experiment",
+  "Parasite Host", "Artificial Human", "Living Statue",
+  "Sentient Plant", "Elemental", "Crystal Being",
+  "Forest Spirit", "Mountain Spirit", "Sea God",
+  "Sun God", "Moon Goddess", "Death God",
+  "War God", "Trickster God", "Ancient One"
   ],
   "colors": [
-    "Red", "Blue", "Green", "Yellow", "Purple", "Orange", "Pink", "Black",
-    "White", "Gold", "Silver", "Neon", "Pastel", "Coral", "Teal", "Crimson",
-    "Indigo", "Copper", "Ivory", "Turquoise", "Lavender", "Scarlet", "Cyan",
-    "Emerald", "Charcoal", "Rose"
+      "Red", "Blue", "Green", "Yellow", "Purple", "Orange",
+  "Pink", "Black", "White", "Brown", "Gray", "Grey",
+  "Cyan", "Magenta", "Violet", "Indigo", "Maroon",
+  "Burgundy", "Crimson", "Scarlet", "Coral", "Salmon",
+  "Peach", "Apricot", "Amber", "Gold", "Silver",
+  "Bronze", "Copper", "Beige", "Tan", "Cream",
+  "Ivory", "Olive", "Lime", "Mint", "Sage",
+  "Emerald", "Jade", "Teal", "Turquoise", "Aqua",
+  "Aquamarine", "Navy", "Cobalt", "Azure", "Cerulean",
+  "Sapphire", "Periwinkle", "Lavender", "Lilac", "Mauve",
+  "Plum", "Orchid", "Amethyst", "Fuchsia", "Rose",
+  "Magenta", "Raspberry", "Cherry", "Ruby", "Wine",
+  "Mustard", "Lemon", "Canary", "Chartreuse", "Khaki",
+  "Forest Green", "Hunter Green", "Sea Green", "Pine Green",
+  "Moss Green", "Fern Green", "Kelly Green", "Grass Green",
+  "Sky Blue", "Baby Blue", "Powder Blue", "Ice Blue",
+  "Steel Blue", "Denim Blue", "Royal Blue", "Midnight Blue",
+  "Baby Pink", "Hot Pink", "Blush Pink", "Dusty Pink",
+  "Rose Pink", "Bubblegum Pink", "Salmon Pink",
+  "Dark Red", "Light Red", "Dark Blue", "Light Blue",
+  "Dark Green", "Light Green", "Dark Purple", "Light Purple",
+  "Dark Brown", "Light Brown", "Charcoal", "Slate Gray",
+  "Ash Gray", "Silver Gray", "Pearl Gray",
+  "Rust", "Terracotta", "Sienna", "Ochre", "Umber",
+  "Chocolate", "Chestnut", "Mahogany", "Caramel",
+  "Tangerine", "Mandarin", "Pumpkin", "Burnt Orange",
+  "Brick Red", "Firebrick", "Tomato Red", "Watermelon",
+  "Seafoam Green", "Pistachio", "Avocado", "Eucalyptus",
+  "Wisteria", "Thistle", "Heather", "Mulberry"
   ],
   "environments": [
     "Swamp", "Desert", "Forest", "Ocean", "City", "Castle", "Volcano", "Jungle",
     "Mountain", "Laboratory", "Graveyard", "Space", "Ruins", "Snowfield",
     "Tundra", "Cave", "Meadow", "Sky Islands", "Underground", "Temple",
-    "Iceberg", "Village", "Mars", "Coral Reef", "Haunted House", "Rainforest"
+    "Iceberg", "Village", "Mars", "Coral Reef", "Haunted House", "Rainforest",
+      "Waterfall", "Riverbank", "Lake", "Pond", "Wetlands",
+  "Mangrove", "Canyon", "Valley", "Cliffside", "Plateau",
+  "Glacier", "Ice Cave", "Frozen Lake", "Arctic Coast",
+  "Hot Springs", "Geyser Field", "Lava Fields", "Ashlands",
+  "Badlands", "Oasis", "Sand Dunes", "Salt Flats",
+  "Savanna", "Grasslands", "Prairie", "Steppe",
+  "Bamboo Forest", "Mushroom Forest", "Redwood Forest",
+  "Birch Forest", "Cherry Blossom Grove", "Ancient Woods",
+  "Flower Field", "Wildflower Meadow", "Orchard", "Vineyard",
+  "Garden", "Botanical Garden", "Hedge Maze", "Greenhouse",
+  "Underground Lake", "Crystal Cavern", "Limestone Cave",
+  "Crystal Forest", "Fossil Grounds", "Meteor Crater",
+  "Sinkhole", "Abyss", "Deep Sea", "Ocean Trench",
+  "Underwater City", "Shipwreck", "Sunken Temple",
+  "Sunken City", "Pirate Cove", "Island", "Archipelago",
+  "Tropical Beach", "Rocky Shore", "Lighthouse Coast",
+  "Harbor", "Fishing Village", "Port Town", "Canal District",
+  "Floating Island", "Floating City", "Cloud Kingdom",
+  "Sky Fortress", "Airship Dock", "Space Station",
+  "Moon Base", "Asteroid Belt", "Alien Planet",
+  "Nebula", "Galactic Core", "Black Hole",
+  "Abandoned City", "Cyberpunk City", "Industrial District",
+  "Rooftops", "Suburbs", "Slums", "Market Square",
+  "Underground City", "Sewers", "Metro Station",
+  "Train Station", "Airport", "Amusement Park",
+  "Carnival Grounds", "Circus", "Stadium", "Museum",
+  "Library", "University", "Hospital", "Factory",
+  "Power Plant", "Nuclear Bunker", "Military Base",
+  "Prison", "Fortress", "Citadel", "Palace",
+  "Throne Room", "Dungeon", "Catacombs", "Crypt",
+  "Monastery", "Shrine", "Sanctuary", "Church",
+  "Abandoned Mansion", "Clock Tower", "Bell Tower",
+  "Watchtower", "Ancient City", "Lost Kingdom",
+  "Archaeological Site", "Battlefield", "War Camp",
+  "Abandoned Village", "Ghost Town", "Frontier Town",
+  "Medieval Town", "Walled City", "Mountain Village",
+  "Desert Temple", "Jungle Ruins", "Ancient Fortress",
+  "Colosseum", "Arena", "Labyrinth", "Underground Passage",
+  "Forgotten Kingdom", "Forbidden Island", "Hidden Valley",
+  "Enchanted Forest", "Fairy Realm", "Demon Realm",
+  "Heaven", "Underworld", "Purgatory", "Dream Realm",
+  "Nightmare Realm", "Shadow Realm", "Void Dimension",
+  "Astral Plane", "Spirit World", "Parallel Universe",
+  "Pocket Dimension", "Time Rift", "Dimensional Gateway",
+  "Ethereal Realm", "Crystal Dimension", "Lost Dimension",
+  "Ancient Battlefield", "Dragon's Lair", "Giant's Graveyard",
+  "Witch's Cottage", "Wizard's Tower", "Alchemist's Workshop",
+  "Dwarven Mines", "Elven Kingdom", "Goblin Settlement",
+  "Orc Stronghold", "Dragon's Nest", "Giant Tree",
+  "World Tree", "Sacred Grove", "Forbidden Forest",
+  "Moonlit Garden", "Sunken Forest", "Petrified Forest",
+  "Bioluminescent Forest", "Volcanic Island", "Storm Coast",
+  "Thunder Plains", "Lightning Fields", "Windy Cliffs",
+  "Aurora Valley", "Eternal Winter", "Endless Desert",
+  "Rainbow Valley", "Crystal Mountains", "Obsidian Wastes"
   ],
-  "emotions": [
-    "Joyful", "Furious", "Curious", "Lonely", "Hopeful", "Restless", "Dreamy",
-    "Fearful", "Proud", "Nostalgic", "Mischievous", "Serene", "Jealous",
-    "Confused", "Brave", "Melancholy", "Playful", "Envious", "Peaceful", "Anxious"
-  ],
+
   "materials": [
     "Crystal", "Velvet", "Glass", "Moss", "Marble", "Paper", "Rust", "Smoke",
     "Wood", "Porcelain", "Wax", "Lava", "Feathers", "Leather", "Ice", "Silk",
-    "Bone", "Copper", "Rubber", "Stone"
+    "Bone", "Copper", "Rubber", "Stone",
+    "Gold", "Silver", "Bronze", "Iron", "Steel",
+  "Brass", "Clay", "Ceramic", "Concrete", "Sand",
+  "Mud", "Dirt", "Ash", "Charcoal", "Coal",
+  "Bark", "Bamboo", "Vines", "Leaves", "Flowers",
+  "Grass", "Roots", "Thorns", "Fur", "Wool",
+  "Cotton", "Linen", "Denim", "Satin", "Lace",
+  "Parchment", "Cardboard", "Rubber", "Resin", "Tar",
+  "Coral", "Pearl", "Shell", "Salt", "Water"
   ],
   "weather": [
     "Thunderstorm", "Sunshine", "Fog", "Blizzard", "Drizzle", "Heatwave",
@@ -36,13 +177,138 @@
   "objects": [
     "Lantern", "Hourglass", "Crown", "Key", "Mirror", "Compass", "Mask", "Cage",
     "Sword", "Teacup", "Book", "Clock", "Vase", "Umbrella", "Locket", "Bell",
-    "Camera", "Feather", "Candle"
+    "Camera", "Feather", "Candle",
+     
+  "Bottle", "Jar", "Mug", "Glass", "Plate", "Bowl",
+  "Fork", "Spoon", "Knife", "Teapot", "Kettle", "Pot",
+  "Pan", "Basket", "Box", "Chest", "Drawer", "Suitcase",
+  "Backpack", "Wallet", "Purse", "Envelope", "Letter",
+  "Newspaper", "Scroll", "Diary", "Notebook", "Pencil",
+  "Pen", "Brush", "Scissors", "Needle", "Thread",
+  "Rope", "Chain", "Ribbon", "Button", "Coin",
+
+  
+  "Chair", "Throne", "Table", "Desk", "Bench", "Stool",
+  "Sofa", "Armchair", "Bed", "Cradle", "Wardrobe",
+  "Bookshelf", "Cabinet", "Cupboard", "Mirror Stand",
+  "Dresser", "Nightstand", "Hammock", "Swing", "Crate",
+  "Carpet", "Rug", "Curtain", "Pillow", "Blanket",
+  "Mattress", "Clockwork Cabinet", "Screen", "Partition",
+
+  
+  "Hammer", "Axe", "Pickaxe", "Shovel", "Hoe", "Saw",
+  "Wrench", "Screwdriver", "Pliers", "Chisel", "Drill",
+  "Anvil", "Tongs", "Ladder", "Wheelbarrow", "Bucket",
+  "Rake", "Broom", "Mop", "Lantern Hook", "Pulley",
+  "Gear", "Lever", "Crank", "Valve", "Pipe",
+  "Magnifying Glass", "Telescope", "Microscope", "Binoculars",
+
+ 
+  "Dagger", "Spear", "Spearhead", "Bow", "Arrow",
+  "Crossbow", "Shield", "Helmet", "Gauntlet", "Breastplate",
+  "Armor", "Axe", "Halberd", "Mace", "Flail",
+  "Scythe", "Trident", "Staff", "Wand", "Whip",
+  "Quiver", "Sheath", "Rapier", "Katana", "Greatsword",
+  "Buckler", "Battle Horn", "War Banner", "Bracer",
+
+  
+  "Ring", "Necklace", "Bracelet", "Earring", "Brooch",
+  "Pendant", "Tiara", "Diadem", "Amulet", "Talisman",
+  "Medallion", "Anklet", "Cufflink", "Hairpin", "Comb",
+  "Hairbrush", "Hairband", "Scarf", "Gloves", "Hat",
+  "Top Hat", "Crown", "Veil", "Cape", "Cloak",
+  "Belt", "Buckle", "Sunglasses", "Monocle", "Pocket Watch",
+
+  
+  "Violin", "Cello", "Guitar", "Harp", "Flute",
+  "Clarinet", "Trumpet", "Trombone", "Saxophone", "Drum",
+  "Tambourine", "Piano", "Organ", "Accordion", "Harmonica",
+  "Lute", "Lyre", "Mandolin", "Xylophone", "Bellows",
+  "Music Box", "Metronome", "Cymbal",
+
+  
+  "Flowerpot", "Watering Can", "Vase", "Fountain", "Birdhouse",
+  "Wind Chime", "Windmill", "Sundial", "Birdcage", "Terrarium",
+  "Aquarium", "Snow Globe", "Marble Statue", "Sculpture",
+  "Totem", "Obelisk", "Fossil", "Skull", "Antler",
+  "Pinecone", "Acorn", "Seashell", "Coral", "Driftwood",
+  "Crystal Ball", "Gemstone", "Geode", "Stone Tablet",
+
+  
+  "Goblet", "Chalice", "Urn", "Relic", "Artifact",
+  "Sarcophagus", "Coffin", "Tombstone", "Idol", "Totem Pole",
+  "Scepter", "Orb", "Censer", "Incense Burner", "Oil Lamp",
+  "Wax Seal", "Signet Ring", "Royal Seal", "Tablet",
+  "Sundial", "Abacus", "Astrolabe", "Pendulum", "Sextant",
+  "Treasure Chest", "Gold Ingot", "Silver Ingot", "Ancient Coin",
+  "Ceremonial Bowl", "Ritual Dagger", "Offering Plate",
+
+  
+  "Magic Wand", "Spellbook", "Grimoire", "Potion Bottle",
+  "Magic Potion", "Crystal Shard", "Magic Orb", "Runestone",
+  "Enchanted Mirror", "Magic Ring", "Flying Broom",
+  "Magic Carpet", "Portal Stone", "Magic Scroll",
+  "Dragon Egg", "Phoenix Feather", "Fairy Dust",
+  "Magic Amulet", "Cursed Doll", "Voodoo Doll",
+  "Enchanted Key", "Soul Gem", "Magic Lantern",
+  "Mystic Compass", "Ancient Relic", "Magic Flute",
+  "Wishing Well", "Genie's Lamp", "Puzzle Box",
+  "Infinity Stone", "Rune Tablet", "Crystal Pendant",
+
+  
+  "Suitcase", "Trunk", "Walking Stick", "Cane", "Map",
+  "Globe", "Compass Rose", "Ship Wheel", "Anchor", "Oar",
+  "Sail", "Ship Model", "Wheel", "Bicycle", "Skateboard",
+  "Roller Skate", "Train Ticket", "Passport", "Postcard",
+  "Travel Trunk", "Saddle", "Stirrup", "Horse Bridle",
+  "Carriage Wheel", "Helicopter Model", "Toy Airplane",
+
+  
+  "Radio", "Television", "Telephone", "Typewriter",
+  "Calculator", "Keyboard", "Computer", "Monitor",
+  "Robot Arm", "Circuit Board", "Battery", "Light Bulb",
+  "Flashlight", "Projector", "Speaker", "Headphones",
+  "Microphone", "Remote Control", "Antenna", "Satellite Dish",
+  "Mechanical Arm", "Pocket Calculator", "Camera Lens",
+  "Film Reel", "Cassette Tape", "Vinyl Record", "Floppy Disk",
+
+  
+  "Apple", "Pumpkin", "Bread", "Cheese", "Cake",
+  "Pie", "Candy", "Lollipop", "Chocolate Bar", "Honey Jar",
+  "Wine Bottle", "Fruit Basket", "Cutting Board",
+  "Rolling Pin", "Mortar and Pestle", "Salt Shaker",
+  "Pepper Mill", "Serving Tray", "Cake Stand",
+  "Teaspoon", "Napkin", "Chopsticks", "Lunchbox",
+
+  
+  "Teddy Bear", "Doll", "Puppet", "Toy Soldier",
+  "Toy Train", "Toy Car", "Kaleidoscope", "Yo-Yo",
+  "Spinning Top", "Chessboard", "Chess Piece", "Dice",
+  "Playing Cards", "Dominoes", "Puzzle", "Marionette",
+  "Jack-in-the-Box", "Stuffed Animal", "Paper Boat",
+  "Paper Crane", "Pinwheel", "Marble", "Rubber Duck",
+
+  
+  "Boots", "Shoes", "Sandals", "Slippers", "Helmet",
+  "Mask", "Apron", "Dress", "Jacket", "Coat",
+  "Shirt", "Cloak Pin", "Shoulder Pad", "Knee Guard",
+  "Buckle", "Pocket Square", "Handkerchief", "Stocking",
+
+  
+  "Hourglass", "Keyhole", "Padlock", "Lock", "Chain Lock",
+  "Door Knocker", "Doorknob", "Window Frame", "Picture Frame",
+  "Portrait", "Painting", "Canvas", "Easel", "Chalkboard",
+  "Whiteboard", "Street Sign", "Road Sign", "Mailbox",
+  "Bird Feeder", "Fishing Rod", "Fishing Net", "Hook",
+  "Fishing Float", "Sewing Machine", "Spool", "Thimble",
+  "Lantern", "Candle Holder", "Candelabra", "Incense Stick",
+  "Prayer Beads", "Rosary", "Bellows", "Stopwatch",
+  "Thermometer", "Barometer", "Compass", "Whistle",
+  "Hunting Horn", "Spyglass", "Binocular Case", "Feather Quill",
+  "Ink Bottle", "Inkpot", "Stamp", "Wax Crayon",
+  "Matchbox", "Ashtray", "Cigarette Case", "Pocket Mirror"
   ],
-  "actions": [
-    "Dancing", "Floating", "Hiding", "Transforming", "Growing", "Falling",
-    "Whispering", "Exploding", "Sleeping", "Running", "Melting", "Singing",
-    "Searching", "Fighting", "Drifting", "Building", "Watching", "Escaping"
-  ],
+
    "traits": [
     "Elegant", "Ancient", "Cursed", "Ethereal", "Monstrous",
     "Fragile", "Majestic", "Corrupted", "Radiant", "Mysterious",
@@ -50,14 +316,7 @@
     "Rebellious", "Hollow", "Pristine", "Twisted", "Otherworldly"
   ],
 
-  "powers": [
-    "Telekinesis", "Necromancy", "Illusion", "Teleportation",
-    "Pyrokinesis", "Cryokinesis", "Shapeshifting", "Invisibility",
-    "Regeneration", "Time Manipulation", "Gravity Control",
-    "Mind Reading", "Soul Absorption", "Astral Projection",
-    "Blood Manipulation", "Light Manipulation", "Shadow Manipulation",
-    "Summoning", "Energy Manipulation", "Dream Walking"
-  ],
+
 
   "accessories": [
     "Amulet", "Gauntlet", "Tiara", "Cloak", "Brooch",
@@ -109,14 +368,6 @@
     "Silhouette", "Forced Perspective"
   ],
 
-  "art_styles": [
-    "Watercolor", "Oil Painting", "Impressionism", "Surrealism",
-    "Cel-shading", "Pixel Art", "Art Nouveau", "Art Deco",
-    "Ukiyo-e", "Expressionism", "Ink Wash", "Gouache",
-    "Baroque Painting", "Concept Art", "Comic Book",
-    "Woodcut", "Low Poly", "Photorealism", "Abstract",
-    "Painterly"
-  ],
 
   "genres": [
     "Steampunk", "Cyberpunk", "Dark Fantasy", "Solarpunk",
@@ -140,6 +391,76 @@
     "Griffin", "Kitsune", "Kraken", "Basilisk", "Manticore",
     "Chimera", "Hydra", "Cerberus", "Leviathan", "Minotaur",
     "Sphinx", "Pegasus", "Wyvern", "Harpy", "Wendigo",
-    "Werewolf", "Kelpie", "Banshee", "Djinn", "Thunderbird"
+    "Werewolf", "Kelpie", "Banshee", "Djinn", "Thunderbird",
+      "Unicorn", "Phoenix", "Pegasus", "Centaur", "Cyclops",
+  "Cerastes", "Gorgon", "Medusa", "Satyr", "Faun",
+  "Nymph", "Dryad", "Sylph", "Undine", "Salamander",
+  "Ouroboros", "Amphisbaena", "Hippogriff", "Griffon",
+  "Qilin", "Kir​in", "Nue", "Baku", "Tengu",
+  "Oni", "Kappa", "Raiju", "Yuki-onna", "Jorogumo",
+  "Nian", "Pixiu", "Fenghuang", "Ziz", "Roc",
+
+  
+  "Eastern Dragon", "Sea Dragon", "Frost Dragon",
+  "Shadow Dragon", "Bone Dragon", "Storm Dragon",
+  "Amphiptere", "Lindworm", "Drake", "Wyrm",
+  "Sea Serpent", "World Serpent", "Rainbow Serpent",
+  "Salamander Dragon", "Hydra Serpent", "Cockatrice",
+  "Basilisk King", "Dragon Turtle", "Dracolich",
+
+  
+  "Goblin", "Hobgoblin", "Troll", "Ogre", "Orc",
+  "Hobbit", "Elf", "Dark Elf", "Dwarf", "Gnome",
+  "Leprechaun", "Brownie", "Puck", "Changeling",
+  "Redcap", "Barghest", "Black Shuck", "Church Grim",
+  "Dullahan", "Headless Horseman", "Wild Hunt Hound",
+  "Fossegrim", "Nixie", "Nøkk", "Fomorian",
+  "Balor", "Selkie", "Fachan", "Each-uisge",
+
+  
+  "Lich", "Revenant", "Wraith", "Wight", "Specter",
+  "Poltergeist", "Ghoul", "Zombie", "Skeleton",
+  "Vampire Bat", "Draugr", "Strigoi", "Jiangshi",
+  "Demon Hound", "Shadow Beast", "Soul Eater",
+  "Night Hag", "Incubus", "Succubus", "Flesh Golem",
+
+  
+  "Behemoth", "Jabberwock", "Tarrasque", "Nuckelavee",
+  "Chupacabra", "Mothman", "Jersey Devil", "Flatwoods Monster",
+  "Fresno Nightcrawler", "Loveland Frog", "Black-Eyed Beast",
+  "Dover Demon", "Skunk Ape", "Owlman", "Snallygaster",
+  "Drop Bear", "Fearsome Critter", "Hidebehind",
+  "Wolpertinger", "Jackalope", "Squonk", "Fur-Bearing Trout",
+
+  
+  "Merrow", "Sea Bishop", "Sea Monk", "Akkorokamui",
+  "Umibozu", "Isonade", "Bake-kujira", "Makara",
+  "Aspidochelone", "Zaratan", "Ningen", "Morgawr",
+  "Sea Drake", "Abyssal Eel", "Siren", "Scylla",
+  "Charybdis", "Dagon", "Water Horse", "Deep Sea Horror",
+
+  
+  "Giant Mantis", "Giant Scorpion", "Giant Spider",
+  "Giant Centipede", "Ant Queen", "Moth Beast",
+  "Beetle Titan", "Locust Swarm", "Silkworm Dragon",
+  "Spider Queen", "Cave Crawler", "Wasp Demon",
+
+  
+  "Seraph", "Cherub", "Nephilim", "Fallen Seraph",
+  "Star Beast", "Void Creature", "Astral Dragon",
+  "Cosmic Whale", "Moon Beast", "Sun Lion",
+  "Fire Elemental", "Water Elemental", "Earth Elemental",
+  "Air Elemental", "Ice Elemental", "Lightning Elemental",
+  "Stone Elemental", "Shadow Elemental", "Light Elemental",
+  "Crystal Elemental", "Magma Beast", "Frost Giant",
+
+  
+  "Naga", "Garuda", "Makara", "Asura", "Rakshasa",
+  "Yaksha", "Yakshini", "Vetala", "Preta", "Bhuta",
+  "Narasimha", "Vanara", "Apsara", "Kinnara",
+  "Manananggal", "Aswang", "Tikbalang", "Kapre",
+  "Pontianak", "Penanggalan", "Toyol", "Orang Bunian",
+  "Hantu Raya", "Barong", "Rangda", "Leyak",
+  "Ahool", "Orang Pendek", "Buto Ijo"
   ]
 }
